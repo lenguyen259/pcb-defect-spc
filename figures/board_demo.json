@@ -1,0 +1,32 @@
+[
+ {
+  "board": "10_missing_hole_01",
+  "gt": 5,
+  "pred": 6
+ },
+ {
+  "board": "10_mouse_bite_01",
+  "gt": 5,
+  "pred": 7
+ },
+ {
+  "board": "10_open_circuit_01",
+  "gt": 5,
+  "pred": 8
+ },
+ {
+  "board": "10_short_01",
+  "gt": 5,
+  "pred": 7
+ },
+ {
+  "board": "10_short_02",
+  "gt": 5,
+  "pred": 6
+ },
+ {
+  "board": "10_short_03",
+  "gt": 5,
+  "pred": 5
+ }
+]
